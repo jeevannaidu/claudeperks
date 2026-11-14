@@ -7,7 +7,7 @@ edits it.
 
 ## The job, step by step
 
-1. Create a branch `update/YYYY-MM-DD` (today's date, UTC) from `main`.
+1. Create a branch `update/YYYY-MM-DD` (today's date, UTC) from `master`.
 2. Read every source in the table below. If one fails to load, note it and go on.
 3. Split each source into items and give each one an ID (see "Item IDs").
 4. Drop every item whose ID is already in `data/seen.json`.
@@ -22,7 +22,7 @@ edits it.
    and the entry's file name.
 9. Run `node scripts/validate.mjs`. Fix every error it reports.
 10. If nothing was added or updated, stop: no commit, no pull request. Report "nothing new".
-11. Otherwise commit, push, and open a pull request to `main` titled
+11. Otherwise commit, push, and open a pull request to `master` titled
     `Timeline update YYYY-MM-DD: N new, M updated`. The description lists:
     - entries with `confidence: low` first, each with why;
     - every new or changed entry: title, status, first source link;
