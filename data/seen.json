@@ -1,1 +1,1592 @@
-[]
+[
+ {
+  "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-12:launched-self-hosted-claude-managed-agents",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-11-12-self-hosted-managed-agents.md"
+ },
+ {
+  "id": "platform:2026-11-09:with-the-advisor-tool-which-is",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-09:weve-launched-fast-mode-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-09:weve-launched-claude-fable-52-claudefable52",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-09:thinking-blocks-that-claude-fable-52",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-09:no-other-model-reads-thinking-blocks",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-09:launched-fast-mode-claude-fable-5-2",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-11-09-fast-mode-fable-5-2.md"
+ },
+ {
+  "id": "platform:2026-11-09:launched-claude-fable-5-2-claude-fable",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-11-09-claude-fable-5-2.md"
+ },
+ {
+  "id": "platform:2026-11-09:dreams-research-preview-now-supports-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-09:claude-fable-52-and-claude-mythos",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-09:both-models-require-30day-data-retention",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-05:you-can-now-sign-a-member",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-11-05:you-can-now-set-up-an",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-11-05:the-compliance-api-now-includes-security",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-11-03:text-generated-by-claude-mythos-5",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-11-02:long-conversations-and-agent-loops-on",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-11-02-message-threads.md"
+ },
+ {
+  "id": "platform:2026-10-30:weve-deprecated-fast-mode-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-29:weve-launched-the-usage-and-cost",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-29:the-usage-and-cost-api-is",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-28:weve-raised-the-maximum-request-size",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-23:the-claude-tag-api-is-available",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-22:weve-launched-claude-models-on-google",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-22:fast-mode-is-available-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-21:weve-released-new-versions-of-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-21:weve-released-api-version-20261021-migrating",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-21:weve-added-the-enforcementstatus-and-enforcementactions",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-21:the-new-sdk-and-cli-versions",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-20:weve-launched-user-profiles-so-you",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-20:weve-added-organization-webhooks-to-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-20:organization-admins-can-now-turn-off",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-20:launched-user-profiles-so-you-can",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-20-user-profiles.md"
+ },
+ {
+  "id": "platform:2026-10-20:inference-hooks-are-out-of-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-20:in-claude-managed-agents-the-webfetch",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-15:weve-added-capabilitiesthinkingtypesbetweentools-to-the-models",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-15:the-compliance-api-now-returns-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-15:fast-mode-is-out-of-research",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-15-fast-mode-opus-5-5-ga.md"
+ },
+ {
+  "id": "platform:2026-10-15:fast-mode-for-claude-opus-55",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-14:weve-launched-opentelemetry-export-in-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-14:launched-opentelemetry-export-in-beta-so",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-14-opentelemetry-export.md"
+ },
+ {
+  "id": "platform:2026-10-14:claude-managed-agents-scheduled-deployments-are",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-09:you-can-now-let-a-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-09-managed-agents-dynamic-workflows.md"
+ },
+ {
+  "id": "platform:2026-10-08:the-compliance-api-chat-endpoints-now",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-07:with-limited-networking-creating-a-session",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-07:weve-lowered-the-price-of-prompt",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-07:weve-launched-claude-haiku-55-claudehaiku55",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-07:python-sdk-1120-and-typescript-sdk",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-07:launched-claude-haiku-5-5-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-07-claude-haiku-5-5.md"
+ },
+ {
+  "id": "platform:2026-10-07:in-claude-managed-agents-a-cloud",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-07:code-written-for-claude-haiku-45",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-07:claude-max-ultra-and-team-plans",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-10-06:weve-added-capabilitiesservertools-to-the-models",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-05:weve-added-capabilitiesthinkingtypesdisabled-to-the-models",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-01:weve-added-a-line-field-to",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-10-01:dreams-research-preview-now-supports-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-30:we-announced-the-deprecation-of-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-30:in-python-sdk-1100-typescript-sdk",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-28:weve-launched-claude-sonnet-55-claudesonnet55",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-28:thinking-blocks-that-claude-sonnet-55",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-28:launched-claude-sonnet-5-5-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-28-claude-sonnet-5-5.md"
+ },
+ {
+  "id": "platform:2026-09-28:code-written-for-claude-sonnet-5",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-24:were-resuming-billing-for-refusals-that",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-24:the-compliance-api-local-session-endpoints",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-24:the-compliance-api-activity-feed-no",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-23:cache-diagnostics-is-out-of-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-22:weve-launched-claude-opus-55-claudeopus55",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-22:tools-can-now-be-defined-inside",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-22-inline-tools-mid-conversation.md"
+ },
+ {
+  "id": "platform:2026-09-22:on-claude-opus-55-thinking-cant",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-22:launched-claude-opus-5-5-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-22-claude-opus-5-5.md"
+ },
+ {
+  "id": "platform:2026-09-22:fast-mode-research-preview-is-available",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-18:the-compliance-api-local-session-endpoints",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-18:for-cache-diagnostics-a-response-to",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-14:with-the-thinkingbindingcontrols20260801-beta-header-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-14:the-messages-api-can-now-compact",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-14-on-demand-compaction.md"
+ },
+ {
+  "id": "platform:2026-09-10:version-1320-of-the-ant-cli",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-10:claude-managed-agents-permission-policies-now",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-10-managed-agents-auto-permissions.md"
+ },
+ {
+  "id": "platform:2026-09-09:for-cache-diagnostics-the-api-now",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-03:version-1300-of-the-ant-cli",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-03:permessage-effort-changes-in-beta-are",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-09-01:weve-launched-claude-fable-51-claudefable51",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:turnscoped-system-messages-are-in-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:thinkingdisplay-accepts-a-third-value-updates",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:thinking-blocks-produced-by-claude-fable",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:the-guides-for-the-claude-enterprise",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:text-generated-by-claude-fable-51",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:prompt-cache-reads-on-claude-fable",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:permessage-effort-changes-are-in-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:on-claude-fable-51-and-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:like-claude-fable-5-both-models",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-09-01:launched-claude-fable-5-1-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-01-claude-fable-5-1.md"
+ },
+ {
+  "id": "platform:2026-08-27:you-can-now-create-personal-keys",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-27:in-python-sdk-120-typescript-sdk",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-26:the-compliance-api-session-endpoints-are",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-26:the-compliance-api-local-session-endpoints",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-26:the-admin-api-is-now-available",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-20:weve-released-v10-of-the-python",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-20:the-computer-use-and-browser-use",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-19:you-can-now-restrict-which-sites",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-19:weve-launched-the-browser-use-tool",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-19:to-move-an-existing-integration-off",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-19:the-session-viewer-in-the-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-19:the-files-api-is-out-of",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-08-19-files-api-and-skills-api-ga.md"
+ },
+ {
+  "id": "platform:2026-08-19:the-computer-use-tool-is-out",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-08-19-computer-use-ga-and-browser-use.md"
+ },
+ {
+  "id": "platform:2026-08-19:the-admin-api-usermanagement-endpoints-for",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-19:launched-the-browser-use-tool-browser-toolset-20260801",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-08-19-computer-use-ga-and-browser-use.md"
+ },
+ {
+  "id": "platform:2026-08-19:claude-managed-agents-sessions-that-run",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-19:both-toolsets-are-available-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-19:agent-skills-and-the-skills-api",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-08-19-files-api-and-skills-api-ga.md"
+ },
+ {
+  "id": "platform:2026-08-18:workbench-is-now-playground-in-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-11:weve-added-the-anthropicworkspaceid-response-header",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-11:the-compliance-api-now-returns-transcripts",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-10:the-introductory-pricing-for-claude-sonnet",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-07:you-can-now-set-a-budget",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-08-07-managed-agents-budget-and-advisor.md"
+ },
+ {
+  "id": "platform:2026-08-07:you-can-now-give-a-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-08-07-managed-agents-budget-and-advisor.md"
+ },
+ {
+  "id": "platform:2026-08-07:you-can-now-control-where-model",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-07:claude-managed-agents-sessions-can-now",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-08-05:weve-retired-the-claude-opus-41",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-05:inference-hooks-are-now-in-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-03:the-compliance-api-now-returns-transcripts",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-08-01:dreams-research-preview-now-supports-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-24:weve-removed-fast-mode-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-24:weve-launched-claude-opus-5-claudeopus5",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-24:the-fallbacks-parameter-now-supports-a",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-24:on-claude-opus-5-disabling-thinking",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-24:midconversation-tool-changes-are-now-in",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-24:launched-claude-opus-5-claude-opus",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-07-24-claude-opus-5.md"
+ },
+ {
+  "id": "platform:2026-07-24:effort-is-the-primary-control-for",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-22:you-can-now-set-an-effort",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-22:when-creating-a-claude-managed-agents",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-22:webhooks-for-claude-managed-agents-now",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-22:the-version-field-is-now-optional",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-22:claude-managed-agents-session-thread-event",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-17:the-legacy-workbench-platformclaudecomworkbench-in-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-17:the-experimental-prompt-tools-apis-for",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-15:midconversation-system-messages-are-available-on",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-14:you-can-now-manage-the-people",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-10:weve-expanded-the-access-transparency-documentation",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-10:dreams-research-preview-now-supports-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-07-08:you-can-now-set-an-expiration",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-02:weve-added-the-agentmemory20260722-beta-header",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-02:the-python-01160-typescript-01100-go",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-07-01:weve-restored-access-to-claude-fable",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-30:when-creating-a-claude-managed-agents",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-30:weve-launched-claude-sonnet-5-claudesonnet5",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-30:webhooks-for-claude-managed-agents-now",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-30:listing-sessions-for-claude-managed-agents",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-30:launched-claude-sonnet-5-claude-sonnet",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-30-claude-sonnet-5.md"
+ },
+ {
+  "id": "platform:2026-06-30:claude-managed-agents-session-event-streams",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-29:weve-removed-fast-mode-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-26:weve-raised-rate-limits-across-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-25:weve-deprecated-fast-mode-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-22:mcp-tunnels-research-preview-the-management",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-18:the-python-typescript-go-java-ruby",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-15:weve-retired-the-claude-sonnet-4",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-11:the-web-search-tool-and-web",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-11:the-code-execution-tool-now-supports",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-10:the-get-v1environmentsidwork-endpoint-which-lists",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-09:weve-released-a-swift-package-in",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:weve-launched-claude-fable-5-claudefable5",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:the-stopdetailscategory-field-on-refusal-responses",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:the-sessionthread-webhook-events-now-include",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:the-compliance-api-activity-feed-get",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:on-claude-fable-5-and-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:launched-claude-fable-5-claude-fable",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-09-claude-fable-5.md"
+ },
+ {
+  "id": "platform:2026-06-09:claude-managed-agents-now-supports-scheduled",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-09-managed-agents-scheduled-deployments.md"
+ },
+ {
+  "id": "platform:2026-06-09:claude-fable-5-runs-safety-classifiers",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:claude-fable-5-requires-30day-data",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-09:claude-fable-5-and-claude-mythos",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-06-05:we-announced-the-deprecation-of-the",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-02:the-advisor-tool-now-supports-a",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-06-02:on-the-claude-api-you-are",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-05-29:claude-managed-agents-webhooks-multiagent-orchestration",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-05-28:with-adaptive-thinking-enabled-claude-opus",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:weve-launched-midconversation-system-messages-on",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:weve-launched-claude-opus-48-claudeopus48",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:weve-deprecated-fast-mode-for-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:the-stopdetails-field-on-refusal-responses",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:the-advisor-tool-now-supports-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:task-budgets-now-support-claude-opus",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:setting-the-sampling-parameters-temperature-topp",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:on-claude-opus-48-the-effort",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:launched-mid-conversation-system-messages-on-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-05-28-claude-opus-4-8.md"
+ },
+ {
+  "id": "platform:2026-05-28:launched-claude-opus-4-8-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-05-28-claude-opus-4-8.md"
+ },
+ {
+  "id": "platform:2026-05-28:in-claude-code-workflows-are-available",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:in-claude-code-weve-expanded-auto",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:in-claude-code-max-plan-users",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:for-updates-to-claudeai-cowork-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:fast-mode-for-claude-opus-48",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:computer-use-now-supports-claude-opus",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-28:claude-opus-48-supports-highresolution-image",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-27:the-messages-api-response-now-includes",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "platform:2026-05-19:with-claude-managed-agents-you-can",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-19:selfhosted-sandboxes-are-now-available-for",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "platform:2026-05-19:self-hosted-sandboxes-are-now-available-for",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-05-19-self-hosted-sandboxes-and-mcp-tunnels.md"
+ },
+ {
+  "id": "platform:2026-05-19:mcp-tunnels-is-now-available-as",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-05-19-self-hosted-sandboxes-and-mcp-tunnels.md"
+ },
+ {
+  "id": "platform:2026-05-18:the-web-search-tool-now-returns",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "models:claude-sonnet-5-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-28-claude-sonnet-5-5.md"
+ },
+ {
+  "id": "models:claude-sonnet-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-30-claude-sonnet-5.md"
+ },
+ {
+  "id": "models:claude-opus-5-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-22-claude-opus-5-5.md"
+ },
+ {
+  "id": "models:claude-opus-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-07-24-claude-opus-5.md"
+ },
+ {
+  "id": "models:claude-opus-4-8",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-05-28-claude-opus-4-8.md"
+ },
+ {
+  "id": "models:claude-mythos-5-2",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-11-09-claude-fable-5-2.md"
+ },
+ {
+  "id": "models:claude-mythos-5-1",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-01-claude-fable-5-1.md"
+ },
+ {
+  "id": "models:claude-mythos-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-09-claude-fable-5.md"
+ },
+ {
+  "id": "models:claude-haiku-5-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-07-claude-haiku-5-5.md"
+ },
+ {
+  "id": "models:claude-fable-5-2",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-11-09-claude-fable-5-2.md"
+ },
+ {
+  "id": "models:claude-fable-5-1",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-01-claude-fable-5-1.md"
+ },
+ {
+  "id": "models:claude-fable-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-09-claude-fable-5.md"
+ },
+ {
+  "id": "apps:2026-11-12:claude-meetings-is-rolling-out-in",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-11-12:claude-meetings",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-11-12-claude-meetings.md"
+ },
+ {
+  "id": "apps:2026-11-06:track-spend-by-cost-code-with",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-11-06:eligible-enterprise-organizations-can-now-tag",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-11-05:were-rolling-out-personal-finance-a",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-11-05:new-security-and-admin-controls-for",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-11-05:claude-enterprise-has-new-security-and",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-10-21:we-just-opened-a-research-preview",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-10-21:claude-duet-research-preview-for-pro",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-21-claude-duet.md"
+ },
+ {
+  "id": "apps:2026-10-07:we-just-launched-claude-haiku-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-07-claude-haiku-5-5.md"
+ },
+ {
+  "id": "apps:2026-10-07:monthly-api-credits-for-max-and",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-10-07-monthly-api-credits-max-team.md"
+ },
+ {
+  "id": "apps:2026-10-07:max-and-team-plans-now-include",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-09-28:we-just-launched-claude-sonnet-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-28-claude-sonnet-5-5.md"
+ },
+ {
+  "id": "apps:2026-09-25:you-can-now-submit-plugins-to",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-09-22:we-just-launched-claude-opus-5",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-22-claude-opus-5-5.md"
+ },
+ {
+  "id": "apps:2026-09-16:you-can-now-ask-for-a",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-09-16:were-rolling-out-a-new-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-09-16:create-designs-decks-and-docs-in",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-16-cowork-in-every-conversation.md"
+ },
+ {
+  "id": "apps:2026-09-16:claude-cowork-comes-to-every-conversation",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-16-cowork-in-every-conversation.md"
+ },
+ {
+  "id": "apps:2026-09-15:weve-launched-salesforce-in-claude-a",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-09-10:weve-launched-smart-reports-which-analyze",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-09-01:we-just-launched-claude-fable-51",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-09-01:claude-fable-51-and-claude-mythos",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-09-01:claude-fable-5-1-and-claude-mythos",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-09-01-claude-fable-5-1.md"
+ },
+ {
+  "id": "apps:2026-08-25:memory-now-works-across-chat-and",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-08-25:memory-in-claude-cowork-editable-topics-and",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-07-10-claude-memory-categorized-entries.md"
+ },
+ {
+  "id": "apps:2026-08-06:skill-and-plugin-security-scanning-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-08-06:enterprise-plans-can-now-turn-on",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-07-24:we-launched-claude-opus-5-a",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-07-24-claude-opus-5.md"
+ },
+ {
+  "id": "apps:2026-07-14:you-can-now-manage-hipaa-readiness",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-07-14:hipaa-configuration-for-your-claude-organizations",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-07-10:memory-on-claude-now-works-as",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-07-10-claude-memory-categorized-entries.md"
+ },
+ {
+  "id": "apps:2026-07-09:your-monthly-recap-is-a-new",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-07-07:write-tools-for-the-microsoft-365",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-07-07-cowork-on-web-and-mobile.md"
+ },
+ {
+  "id": "apps:2026-07-07:the-microsoft-365-connector-now-goes",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-07-07:claude-cowork-is-now-available-on",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-07-07-cowork-on-web-and-mobile.md"
+ },
+ {
+  "id": "apps:2026-07-01:we-are-restoring-access-to-claude",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-07-01:model-entitlements-for-enterprise-plans-beta",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-07-01:admins-on-enterprise-plans-can-now",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-07-01:access-to-claude-fable-5-and",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-06-30:we-launched-claude-sonnet-5-our",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-30-claude-sonnet-5.md"
+ },
+ {
+  "id": "apps:2026-06-25:enable-trusted-devices-for-remote-control",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-06-25:admins-for-team-and-enterprise-plans",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-06-23:team-and-enterprise-plans-can-now",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-06-23:delegate-work-to-claude-in-slack",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-23-claude-tag-slack.md"
+ },
+ {
+  "id": "apps:2026-06-12:when-claude-writes-a-draft-in",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-06-12:weve-suspended-access-to-claude-fable",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-06-12:access-to-claude-fable-5-and",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-06-09:we-launched-claude-fable-5-a",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-06-09-claude-fable-5.md"
+ },
+ {
+  "id": "apps:2026-06-02:we-extended-the-existing-custom-roles",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-06-02:enterprise-plans-can-manage-admin-permissions",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-05-28:weve-upgraded-claude-opus-to-a",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-05-28:we-added-connector-permissions-to-extend",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-05-28:upgraded-claude-opus-to-a-new",
+  "first_seen": "2026-11-15",
+  "outcome": "added",
+  "entry": "2026-05-28-claude-opus-4-8.md"
+ },
+ {
+  "id": "apps:2026-05-28:enterprise-plans-can-manage-connector-access",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "folded into the entry for the same day"
+ },
+ {
+  "id": "apps:2026-05-21:we-introduced-claude-compliance-api-integrations",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "apps:2026-05-21:claude-now-works-with-more-security",
+  "first_seen": "2026-11-15",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ }
+]
