@@ -1,5 +1,125 @@
 [
  {
+  "id": "news:cyber-verification-program",
+  "first_seen": "2026-11-17",
+  "outcome": "added",
+  "entry": "2026-10-06-cyber-verification-program-tiers.md"
+ },
+ {
+  "id": "platform:2026-11-16:text-generated-by-claude-opus-46",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "minor, admin-only or compliance change, not a capability entry"
+ },
+ {
+  "id": "news:anthropic-cyber-mission",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:2026-usage-policy-update",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:genesis-mission-commitment",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:barclays-scales-claude",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:accenture-embedded-evaluation",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:claude-frontier-academy",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:an-update-on-independent-evaluators",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:distillation-defenses",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:2026-us-midterms",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:singapore-office-opening",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:public-benefit-fund",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:s1-sec",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:roadshow-launch",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:ai-for-science-expands-foundations-research-institutions",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:expanding-partnership-gsa",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:open-call-guest-investigators-life-sciences",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:christopher-stubbs-joins-long-term-benefit-trust",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
+  "id": "news:donating-agent-skills-to-the-agentic-ai-foundation",
+  "first_seen": "2026-11-17",
+  "outcome": "skipped",
+  "reason": "policy, company, partnership or research news, not a capability launch"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",
