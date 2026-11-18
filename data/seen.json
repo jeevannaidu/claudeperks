@@ -1,5 +1,23 @@
 [
  {
+  "id": "platform:2026-11-17:weve-launched-linked-billing-in-beta",
+  "first_seen": "2026-11-18",
+  "outcome": "added",
+  "entry": "2026-11-17-linked-billing.md"
+ },
+ {
+  "id": "apps:2026-11-17:choose-a-release-channel-in",
+  "first_seen": "2026-11-18",
+  "outcome": "added",
+  "entry": "2026-11-17-claude-desktop-release-channel.md"
+ },
+ {
+  "id": "platform:2026-11-16:text-generated-by-claude-opus-46",
+  "first_seen": "2026-11-18",
+  "outcome": "skipped",
+  "reason": "compliance change: text watermark extended to more models, no new capability"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",

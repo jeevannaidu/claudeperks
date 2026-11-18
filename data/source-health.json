@@ -1,8 +1,26 @@
 {
-  "news": { "last_ok": "2026-11-15", "consecutive_failures": 0 },
-  "platform": { "last_ok": "2026-11-15", "consecutive_failures": 0 },
-  "apps": { "last_ok": "2026-11-15", "consecutive_failures": 0 },
-  "claude-code": { "last_ok": "2026-11-15", "consecutive_failures": 0 },
-  "models": { "last_ok": "2026-11-15", "consecutive_failures": 0 },
-  "deprecations": { "last_ok": "2026-11-15", "consecutive_failures": 0 }
+ "news": {
+  "last_ok": "2026-11-18",
+  "consecutive_failures": 0
+ },
+ "platform": {
+  "last_ok": "2026-11-18",
+  "consecutive_failures": 0
+ },
+ "apps": {
+  "last_ok": "2026-11-18",
+  "consecutive_failures": 0
+ },
+ "claude-code": {
+  "last_ok": "2026-11-18",
+  "consecutive_failures": 0
+ },
+ "models": {
+  "last_ok": "2026-11-18",
+  "consecutive_failures": 0
+ },
+ "deprecations": {
+  "last_ok": "2026-11-18",
+  "consecutive_failures": 0
+ }
 }
