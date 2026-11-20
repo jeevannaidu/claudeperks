@@ -1,5 +1,137 @@
 [
  {
+  "id": "platform:2026-11-17:weve-launched-linked-billing-in-beta",
+  "first_seen": "2026-11-20",
+  "outcome": "added",
+  "entry": "2026-11-17-linked-billing.md"
+ },
+ {
+  "id": "apps:2026-11-17:choose-a-release-channel-in",
+  "first_seen": "2026-11-20",
+  "outcome": "added",
+  "entry": "2026-11-17-claude-desktop-release-channels.md"
+ },
+ {
+  "id": "platform:2026-11-16:text-generated-by-claude-opus-46",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "watermark extended to older models; minor compliance change, same as the 2026-11-03 item"
+ },
+ {
+  "id": "news:2026-us-midterms",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:2026-usage-policy-update",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:ai-for-science-expands-foundations-research-institutions",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:an-update-on-independent-evaluators",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:anthropic-cyber-mission",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:anthropic-prices-initial-public-offering",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:barclays-scales-claude",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:christopher-stubbs-joins-long-term-benefit-trust",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:claude-frontier-academy",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:cyber-verification-program",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:distillation-defenses",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:donating-agent-skills-to-the-agentic-ai-foundation",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:expanding-partnership-gsa",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:genesis-mission-commitment",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:open-call-guest-investigators-life-sciences",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:public-benefit-fund",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:roadshow-launch",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:s1-sec",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
+  "id": "news:singapore-office-opening",
+  "first_seen": "2026-11-20",
+  "outcome": "skipped",
+  "reason": "not a product launch: company, policy, partnership or program news"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",
