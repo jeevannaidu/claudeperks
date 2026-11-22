@@ -1,5 +1,53 @@
 [
  {
+  "id": "platform:2026-11-17:weve-launched-linked-billing-in-beta",
+  "first_seen": "2026-11-22",
+  "outcome": "added",
+  "entry": "2026-11-17-linked-billing.md"
+ },
+ {
+  "id": "platform:2026-11-16:text-generated-by-claude-opus-4",
+  "first_seen": "2026-11-22",
+  "outcome": "added",
+  "entry": "2026-11-16-text-watermark.md"
+ },
+ {
+  "id": "platform:2026-11-16:weve-added-two-event-types-to",
+  "first_seen": "2026-11-22",
+  "outcome": "added",
+  "entry": "2026-11-16-webhooks-encryption-key-events.md"
+ },
+ {
+  "id": "apps:2026-11-17:choose-a-release-channel-in-claude-desktop",
+  "first_seen": "2026-11-22",
+  "outcome": "added",
+  "entry": "2026-11-17-claude-desktop-release-channel.md"
+ },
+ {
+  "id": "apps:2026-11-20:computer-use-beta-for-team-and-enterprise-plans",
+  "first_seen": "2026-11-22",
+  "outcome": "added",
+  "entry": "2026-11-20-computer-use-team-enterprise.md"
+ },
+ {
+  "id": "apps:2026-11-20:a-refreshed-look-for-claude-mobile",
+  "first_seen": "2026-11-22",
+  "outcome": "skipped",
+  "reason": "visual refresh of the mobile app, no new capability"
+ },
+ {
+  "id": "news:ipo-close",
+  "first_seen": "2026-11-22",
+  "outcome": "skipped",
+  "reason": "company news, not a capability launch"
+ },
+ {
+  "id": "news:anthropic-prices-initial-public-offering",
+  "first_seen": "2026-11-22",
+  "outcome": "skipped",
+  "reason": "company news, not a capability launch"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",
