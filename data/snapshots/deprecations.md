@@ -85,7 +85,7 @@ claude-opus-5ActiveN/ANot sooner than July 24, 2027
 claude-opus-4-8ActiveN/ANot sooner than May 28, 2027
 claude-opus-4-7ActiveN/ANot sooner than April 16, 2027
 claude-opus-4-6ActiveN/ANot sooner than February 5, 2027
-claude-opus-4-5-20251101ActiveN/ANot sooner than November 24, 2026
+claude-opus-4-5-20251101DeprecatedNovember 23, 2026January 22, 2027
 claude-opus-4-1-20250805RetiredJune 5, 2026August 5, 2026
 claude-opus-4-20250514RetiredApril 14, 2026June 15, 2026
 claude-sonnet-5-5ActiveN/ANot sooner than September 28, 2027
@@ -100,6 +100,10 @@ claude-3-5-haiku-20241022RetiredDecember 19, 2025February 19, 2026
 claude-3-haiku-20240307RetiredFebruary 19, 2026April 20, 2026
 Deprecation history
 All deprecations are listed in the following sections, with the most recent announcements first.
+2026-11-23: Claude Opus 4.5 model
+On November 23, 2026, Anthropic notified developers using Claude Opus 4.5 of its upcoming retirement on the Claude API.
+Retirement dateDeprecated modelRecommended replacement
+January 22, 2027claude-opus-4-5-20251101claude-opus-5-5
 2026-09-30: Claude Sonnet 4.5 model
 On September 30, 2026, Anthropic notified developers using Claude Sonnet 4.5 of its upcoming retirement on the Claude API.
 Retirement dateDeprecated modelRecommended replacement
