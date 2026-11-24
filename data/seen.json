@@ -1,5 +1,29 @@
 [
  {
+  "id": "platform:2026-11-23:weve-launched-enterprise-frontier-safeguards",
+  "first_seen": "2026-11-24",
+  "outcome": "added",
+  "entry": "2026-11-23-enterprise-frontier-safeguards.md"
+ },
+ {
+  "id": "platform:2026-11-23:weve-added-two-event-types",
+  "first_seen": "2026-11-24",
+  "outcome": "skipped",
+  "reason": "folded into the Enterprise Frontier Safeguards entry for the same day"
+ },
+ {
+  "id": "platform:2026-11-23:we-announced-the-deprecation-of",
+  "first_seen": "2026-11-24",
+  "outcome": "added",
+  "entry": "2026-11-23-claude-opus-4-5-deprecation.md"
+ },
+ {
+  "id": "deprecations:claude-opus-4-5-20251101:2027-01-22",
+  "first_seen": "2026-11-24",
+  "outcome": "added",
+  "entry": "2026-11-23-claude-opus-4-5-deprecation.md"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",
