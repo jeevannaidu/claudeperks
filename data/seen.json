@@ -1,5 +1,23 @@
 [
  {
+  "id": "apps:2026-11-24:monthly-recap-is-out-of-beta",
+  "first_seen": "2026-11-25",
+  "outcome": "added",
+  "entry": "2026-11-24-monthly-recap-out-of-beta.md"
+ },
+ {
+  "id": "apps:2026-11-24:install-artifacts-as-apps-beta",
+  "first_seen": "2026-11-25",
+  "outcome": "added",
+  "entry": "2026-11-24-install-artifacts-as-apps.md"
+ },
+ {
+  "id": "apps:2026-11-24:send-files-to-connected-apps",
+  "first_seen": "2026-11-25",
+  "outcome": "added",
+  "entry": "2026-11-24-connector-file-transfers.md"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",
