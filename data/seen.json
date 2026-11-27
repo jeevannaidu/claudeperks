@@ -1,5 +1,275 @@
 [
  {
+  "id": "platform:2026-11-23:a-fix-is-live-for-an",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-23:the-web-search-fix-applies-to",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-23:a-fix-is-live-for-an-2",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-23:the-connector-fix-applies-to-data",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-23:on-november-24-2026-a-fix",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-23:the-list-user-activity-endpoint-will",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-23:the-project-fix-will-apply-to",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-23:we-announced-the-deprecation-of-the",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-23-claude-opus-4-5-retirement.md"
+ },
+ {
+  "id": "platform:2026-11-23:weve-launched-enterprise-frontier-safeguards-efs",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-23-enterprise-frontier-safeguards.md"
+ },
+ {
+  "id": "platform:2026-11-23:weve-added-two-event-types-to",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "extra event types for beta organization webhooks, no new capability"
+ },
+ {
+  "id": "platform:2026-11-20:the-claude-enterprise-analytics-api-has",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-20:in-list-user-activity-these-counts",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-20:for-chats-that-the-change-reached",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-20:in-get-connector-usage-individual-auth",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-20:other-counts-from-the-connector-skill",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "Enterprise Analytics API data fix or counting change, not a new capability"
+ },
+ {
+  "id": "platform:2026-11-17:weve-launched-linked-billing-in-beta",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-17-linked-billing.md"
+ },
+ {
+  "id": "platform:2026-11-16:text-generated-by-claude-opus-4",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "behavior note about text watermarks on older models, no new capability"
+ },
+ {
+  "id": "platform:2026-11-16:weve-added-two-event-types-to",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "extra event types for beta organization webhooks, no new capability"
+ },
+ {
+  "id": "apps:2026-11-24:monthly-recap-is-out-of-beta",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-24-monthly-recap-out-of-beta.md"
+ },
+ {
+  "id": "apps:2026-11-24:install-artifacts-as-apps-beta",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-24-install-artifacts-as-apps.md"
+ },
+ {
+  "id": "apps:2026-11-24:send-files-to-connected-apps-and",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-24-send-files-to-connected-apps.md"
+ },
+ {
+  "id": "apps:2026-11-20:a-refreshed-look-for-claude",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "cosmetic mobile redesign, no new capability"
+ },
+ {
+  "id": "apps:2026-11-20:computer-use-beta-for-team-and",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-20-computer-use-team-enterprise-apps.md"
+ },
+ {
+  "id": "apps:2026-11-17:choose-a-release-channel-in-claude",
+  "first_seen": "2026-11-27",
+  "outcome": "added",
+  "entry": "2026-11-17-claude-desktop-release-channels.md"
+ },
+ {
+  "id": "deprecations:claude-opus-4-5-20251101:2027-01-22",
+  "first_seen": "2026-11-27",
+  "outcome": "updated",
+  "entry": "2026-11-23-claude-opus-4-5-retirement.md"
+ },
+ {
+  "id": "news:2026-us-midterms",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:2026-usage-policy-update",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:ai-for-science-expands-foundations-research-institutions",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:an-update-on-independent-evaluators",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:anthropic-cyber-mission",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:anthropic-prices-initial-public-offering",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:barclays-scales-claude",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:christopher-stubbs-joins-long-term-benefit-trust",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:claude-frontier-academy",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:distillation-defenses",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:donating-agent-skills-to-the-agentic-ai-foundation",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:expanding-partnership-gsa",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:genesis-mission-commitment",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:ipo-close",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:open-call-guest-investigators-life-sciences",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:public-benefit-fund",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:roadshow-launch",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:s1-sec",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:singapore-office-opening",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "company, policy or partnership news, not a capability launch"
+ },
+ {
+  "id": "news:cyber-verification-program",
+  "first_seen": "2026-11-27",
+  "outcome": "skipped",
+  "reason": "published Oct 6, 2026, before this run window; possible capability, flagged for Jeevan to review"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",
