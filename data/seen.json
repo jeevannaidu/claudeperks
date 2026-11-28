@@ -1,5 +1,77 @@
 [
  {
+  "id": "platform:2026-11-17:launched-linked-billing-in-beta-with",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-17-linked-billing.md"
+ },
+ {
+  "id": "platform:2026-11-16:text-generated-by-claude-opus-46",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-16-text-watermark.md"
+ },
+ {
+  "id": "platform:2026-11-16:added-two-event-types-to-organization",
+  "first_seen": "2026-11-28",
+  "outcome": "skipped",
+  "reason": "Two new event types on beta organization webhooks; no standalone capability."
+ },
+ {
+  "id": "platform:2026-11-20:claude-enterprise-analytics-api-has-a",
+  "first_seen": "2026-11-28",
+  "outcome": "skipped",
+  "reason": "Analytics metric counting changes, not a new capability."
+ },
+ {
+  "id": "platform:2026-11-23:fix-is-live-for-an-undercount",
+  "first_seen": "2026-11-28",
+  "outcome": "skipped",
+  "reason": "Analytics undercount fixes, not a new capability."
+ },
+ {
+  "id": "apps:2026-11-17:choose-a-release-channel-in",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-17-desktop-release-channel.md"
+ },
+ {
+  "id": "apps:2026-11-20:a-refreshed-look-for-claude",
+  "first_seen": "2026-11-28",
+  "outcome": "skipped",
+  "reason": "Visual refresh of the mobile app, no new capability."
+ },
+ {
+  "id": "apps:2026-11-20:computer-use-beta-for-team-and",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-20-computer-use-team-enterprise.md"
+ },
+ {
+  "id": "apps:2026-11-24:monthly-recap-is-out-of-beta",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-24-monthly-recap-ga.md"
+ },
+ {
+  "id": "apps:2026-11-24:install-artifacts-as-apps-beta",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-24-install-artifacts-as-apps.md"
+ },
+ {
+  "id": "apps:2026-11-24:send-files-to-connected-apps-and",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-24-file-transfer-with-connectors.md"
+ },
+ {
+  "id": "deprecations:claude-opus-4-5-20251101:2027-01-22",
+  "first_seen": "2026-11-28",
+  "outcome": "added",
+  "entry": "2026-11-23-claude-opus-4-5-deprecated.md"
+ },
+ {
   "id": "platform:2026-11-12:weve-launched-selfhosted-claude-managed-agents",
   "first_seen": "2026-11-15",
   "outcome": "skipped",
